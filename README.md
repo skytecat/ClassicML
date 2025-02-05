@@ -7,3 +7,5 @@
 [SVM](SVM.ipynb) (Метод опорных векторов) 
 
 Кластеризация [K-means](K-means.ipynb) (метод k-средних)
+
+[SGD](SGD.ipynb) (Stochastic Gradient Descent)
