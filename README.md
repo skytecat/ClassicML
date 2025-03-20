@@ -9,3 +9,5 @@
 Кластеризация [K-means](K-means.ipynb) (метод k-средних)
 
 [SGD](SGD.ipynb) (Stochastic Gradient Descent)
+
+Реализация алгоритма [AdaBoost](Boosting.ipynb) (Adaptive Boosting) с использованием решающих деревьев
