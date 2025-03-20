@@ -11,3 +11,5 @@
 [SGD](SGD.ipynb) (Stochastic Gradient Descent)
 
 Реализация алгоритма [AdaBoost](Boosting.ipynb) (Adaptive Boosting) с использованием решающих деревьев
+
+Реализация [Random Forest](Bagging.ipynb)
